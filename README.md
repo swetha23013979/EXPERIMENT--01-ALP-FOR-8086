@@ -1,6 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :Swetha D
-Roll no :212223040222
+Name : Swetha D
+
+Roll no : 212223040222
+
+
 Date of experiment : 13/3/25
 
 
